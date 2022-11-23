@@ -2,13 +2,13 @@
    ✨Clone da HomePage do Spotify🎶
 </h2>
 
-<p align="center">
+<!-- <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-layout-web">Layout</a> • 
+ <a href="#-Imagens-do-projeto">Layout</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-squad-infodevs">Squad</a> • 
  <a href="#-licença">Licença</a>
-</p>
+</p> -->
 
 ## 💻 Sobre o projeto
 
