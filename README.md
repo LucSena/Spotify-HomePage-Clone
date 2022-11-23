@@ -1,5 +1,5 @@
 <h2 align="center"> 
-   ✨Clone da HomePage do Spotify🎶
+    🎧Clone da HomePage do Spotify🎶
 </h2>
 
 <!-- <p align="center">
