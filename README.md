@@ -18,6 +18,7 @@ O Projeto tem como objetivo principal, desenvolver uma tela de inicio baseado no
 
 ## 🎨 Imagens do projeto
 
+![GK1](https://github.com/LucSena/Spotify-HomePage-Clone/blob/main/imagens/Página%20Inicial.png)
 
 ---
 
